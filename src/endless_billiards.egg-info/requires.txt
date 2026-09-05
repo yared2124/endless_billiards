@@ -1,0 +1,9 @@
+pygame-ce>=2.5.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+[dev]
+pytest>=7.4.0
+black>=23.7.0
+mypy>=1.5.0

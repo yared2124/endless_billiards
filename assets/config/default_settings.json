@@ -1,19 +1,5 @@
 {
-  "gesture_sensitivity": 1.25,
-  "deadzone": 0.03,
   "audio_volume": 0.8,
-  "pinch_threshold": 0.06,
   "show_debug_overlays": false,
-  "gameplay": {
-    "initial_time_seconds": 60.0,
-    "max_target_balls": 4,
-    "time_bonus_per_pocket": 5.0,
-    "scratch_penalty_seconds": 5.0,
-    "challenge_timer_multiplier": 1.0
-  },
-  "difficulty_curve": {
-    "speed_ramp_threshold": 1000,
-    "friction_decay_rate": 0.985,
-    "power_ceiling_multiplier": 1.0
-  }
+  "camera_index": 0
 }

@@ -1,0 +1,2305 @@
+[
+  {
+    "time_offset": 0.0039873000350780785,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.015640400000847876,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.023011800018139184,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.039655900036450475,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.05609790002927184,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.07337440003175288,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.08979390002787113,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.10627580003347248,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.124324600037653,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.14138960000127554,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.15732140000909567,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.17434269998921081,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.191080900025554,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.20812940003816038,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.2246644999831915,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.24011700000846758,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.25681420002365485,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.273484900011681,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.2896263999864459,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.3068106999853626,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.323490499984473,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.33997359999921173,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.35592330002691597,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.37265600002137944,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.38956949999555945,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.40605390002019703,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.4231619000202045,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.439862200000789,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.45701110002119094,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.4740690999897197,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.4907085000304505,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.5077676000073552,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.5241203000186943,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.5415481000090949,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.5586238999967463,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.5749131999909878,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.5910217000055127,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.6080453000031412,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.6241153000155464,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.6406459999852814,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.6567259000148624,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.6725790000054985,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.6880093000363559,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.7050612000166439,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.7216445000376552,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.737731300003361,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.7546899000299163,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.7702089000376873,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.7877859000000171,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.8035698999883607,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.8199163000099361,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.8370874000247568,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.8541476000100374,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.8714379000011832,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.8884580000303686,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.9046894999919459,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.9211954000056721,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.9380942999850959,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.9549721000366844,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.9733597000013106,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 0.9904431999893859,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.0064314000192098,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.023508700018283,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.0389874000102282,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.0559180999989621,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.073013200017158,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.089194000000134,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.105650899989996,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.1211266000173055,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.1381751000299118,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.1550254999892786,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.1714965000282973,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.1879146000137553,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.20496230002027,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.221563099999912,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.2376517000375316,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.254031800024677,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.2719578000251204,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.2878381999908015,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.305004900030326,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.3210196000291035,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.3380965000251308,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.3548026999924332,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.3713187000248581,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.3889607000164688,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.404672600037884,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.42122910002945,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.4383762000361457,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.4543555999989621,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.471248599991668,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.4878755999961868,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.504938400001265,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.522080700029619,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.538149100029841,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.555022899992764,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.5717702999827452,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.587624899984803,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.604162700008601,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.621723300020676,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.6378696000319906,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.6551258999970742,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.671704399981536,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.6884208000265062,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.7047514999867417,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.7233265999821015,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.7387584000243805,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.7553856000304222,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.772074899985455,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.7895302000106312,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.8052292999927886,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.8231024999986403,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.8394128000363708,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.856278499995824,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.8732466000365093,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.889928599994164,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.9066093000001274,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.9226264000171795,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.9380213000113145,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.9550421999883838,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.9716264000162482,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 1.987729099986609,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.0046972000272945,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.020089300000109,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.0372039999929257,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.0543161000241525,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.0708728000172414,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.0871613000053912,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.104021899984218,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.12044580001384,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.137554500019178,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.1536402000347152,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.1689750000368804,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.1861842999933288,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.2027370000141673,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.2191560000064783,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.2353619000059552,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.252576200000476,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.2680644000065513,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.2842873000190593,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3015325000160374,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3175264000310563,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3339966000057757,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3498246000381187,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3664408000186086,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3830020999885164,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.3993012999999337,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.415967700013425,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.432685700012371,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.4487966999877244,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.465142000000924,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.4818541000131518,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.4978974999976344,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.514609700010624,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.53019730001688,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.546803000033833,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.5634005999891087,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.580098000005819,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.5963420000043698,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.6129567000316456,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.6300853000138886,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.646925500012003,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.6639058000291698,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.6804600000032224,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.697131900000386,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.714532900019549,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.730171100003645,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.747264900011942,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.764574300032109,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.779843800002709,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.796690299990587,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.8127746999962255,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.828932700038422,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.844732900033705,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.860455300018657,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.87691089999862,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.8927903000148945,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.9090103000053205,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.926267800037749,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.942846800026018,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.9600194999948144,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.9772599000134505,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 2.9932633999851532,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.0097597999847494,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.0260390000185,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.0419229000108317,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.0590555000235327,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.075019699987024,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.091881000029389,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.10867159999907,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.124707499984652,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.1409559000167064,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.156659100030083,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.1731403000303544,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.1896977000287734,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.205428200017195,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.222615599981509,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.238805900036823,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.254444800026249,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.2710534000070766,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.2879033000208437,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.303824700007681,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.320890999981202,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.337787500000559,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.3543565000290982,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.3701199000352062,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.3868038000073284,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.402471100038383,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.4196368000120856,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.4356559999869205,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.45113170001423,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.4682592999888584,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.4845271999947727,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.5008369000279345,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.5174413000349887,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.534769600024447,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.5501576000242494,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.566770200035535,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.58351650001714,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.6000695999828167,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.6155293000047095,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.6311669999849983,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.647792899981141,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.6644592999946326,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.681695400038734,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.697622300009243,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.7140867999987677,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.730651099991519,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.7465380000066943,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.762705500004813,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.7797778000240214,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.7968073000083677,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.8139961999841034,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.8304004999808967,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.8475276000099257,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.8638637000112794,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.8801862000254914,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.897094300016761,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.914266799984034,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.930777700035833,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.948021600022912,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.964910199982114,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.981692200002726,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 3.9983689000364393,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.015537500032224,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.031802500016056,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.048018500034232,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.064772000012454,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.080936999991536,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.098554600030184,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.115060299984179,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.13293080002768,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.148750899999868,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.164655500033405,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.180740999989212,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.197852600016631,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.2133063999935985,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.229823200032115,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.246891400020104,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.264309599995613,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.2806767000001855,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.297501599998213,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.313314600032754,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.329784300003666,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.346842700033449,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.363439000037033,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.3789890999905765,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.3961035999818705,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.4126745000248775,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.428529600030743,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.4451437999960035,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.461618300003465,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.478832599997986,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.495525200036354,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.512118900020141,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.5287807999993674,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.5438364000292495,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.558617600006983,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.575064899981953,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.593380100035574,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.610365100030322,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.627473400032613,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.644069700036198,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.6597865000367165,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.676585100009106,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.692017399996985,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.708725799981039,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.724627399991732,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.741030300036073,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.758134500007145,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.774271500005852,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.790731500019319,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.807355299999472,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.823279400006868,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.839869200019166,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.856803400034551,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.874191000009887,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.890088499989361,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.906793700007256,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.922915100003593,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.940228399995249,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.9569817000301555,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.973973400017712,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 4.990447500022128,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.006971800001338,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.024104000010993,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.041675099986605,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.057518700021319,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.073722300003283,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.090109599987045,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.106823200010695,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.122628999990411,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.138212900026701,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.155241300002672,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.171750000037719,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.189001300022937,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.20633060002001,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.223762599984184,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.240106799989007,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.257361900003161,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.273235700035002,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.289760100014973,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.3062889000284486,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.323083100025542,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.339985900034662,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.356929300003685,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.3740448000025935,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.391287899983581,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.407935100025497,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  },
+  {
+    "time_offset": 5.426390599983279,
+    "aim_angle": 0.0,
+    "power": 0.0,
+    "gesture": "SEARCHING",
+    "is_shot": false
+  }
+]
