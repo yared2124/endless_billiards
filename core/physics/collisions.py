@@ -76,7 +76,86 @@ def resolve_collision(b1: Ball, b2: Ball) -> None:
     b2.state = BallState.MOVING
 
 
-def circle_line(ball: Ball, p1: Vector2, p2: Vector2) -> Optional[Vector2]:
+def swept_circle_line(
+    ball: Ball,
+    p1: Vector2,
+    p2: Vector2,
+    dt: float,
+) -> Optional[tuple[Vector2, float]]:
+    """Continuous collision detection (CCD) for a moving circle vs. static segment.
+
+    Detects if the ball's trajectory during time `dt` intersects the line segment
+    buffered by the ball radius.
+
+    Args:
+        ball: Ball entity with valid velocity.
+        p1: Segment start point.
+        p2: Segment end point.
+        dt: Timestep duration.
+
+    Returns:
+        A tuple of (collision_normal, time_of_impact) where time_of_impact in [0.0, 1.0],
+        or None if no collision occurs within the step.
+    """
+    if ball.state == BallState.POCKETED:
+        return None
+
+    displacement = ball.vel * dt
+    disp_len_sq = displacement.magnitude_squared()
+
+    # Fall back to static test if ball is practically stationary
+    if disp_len_sq < 1e-6:
+        normal = circle_line(ball, p1, p2)
+        return (normal, 0.0) if normal is not None else None
+
+    seg = p2 - p1
+    seg_len_sq = seg.magnitude_squared()
+    if seg_len_sq < 1e-6:
+        return None
+
+    # Cushion line normal (pointing inward to playing field, assuming clockwise winding)
+    seg_len = math.sqrt(seg_len_sq)
+    cushion_normal = Vector2(-seg.y / seg_len, seg.x / seg_len)
+
+    # Only collide if moving toward the cushion
+    vel_dot_normal = displacement.dot(cushion_normal)
+    if vel_dot_normal >= 0.0:
+        return None
+
+    # Distance from ball start position to infinite line: (p - p1) . n
+    dist_to_line = (ball.pos - p1).dot(cushion_normal)
+
+    # Time when circle surface touches the infinite plane: dist + (v . n) * t = radius
+    t_hit = (ball.radius - dist_to_line) / vel_dot_normal
+
+    if 0.0 <= t_hit <= 1.0:
+        # Determine position of ball center at impact time
+        impact_pos = ball.pos + (displacement * t_hit)
+
+        # Check if projected impact point sits within the finite segment endpoints
+        projection = (impact_pos - p1).dot(seg) / seg_len_sq
+        if 0.0 <= projection <= 1.0:
+            return cushion_normal, t_hit
+
+    # Corner cap evaluation: Check swept circle against endpoints p1 and p2
+    for endpoint in (p1, p2):
+        # Quadratic formula for circle-point swept hit: ||(pos + d*t) - endpoint||^2 = radius^2
+        m = ball.pos - endpoint
+        b = m.dot(displacement)
+        c = m.magnitude_squared() - (ball.radius * ball.radius)
+
+        if c < 0.0:  # Already overlapping
+            return (m.normalize(), 0.0)
+
+        discriminant = b * b - disp_len_sq * c
+        if discriminant >= 0.0:
+            t = (-b - math.sqrt(discriminant)) / disp_len_sq
+            if 0.0 <= t <= 1.0:
+                hit_pos = ball.pos + (displacement * t)
+                normal = (hit_pos - endpoint).normalize()
+                return normal, t
+
+    return None
     """Test and detect collision between a ball and a directed line segment.
 
     Args:
